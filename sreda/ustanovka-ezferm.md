@@ -14,6 +14,16 @@ layout:
 
 # Установка ezFERM
 
+## <mark style="color:blue;">Устанавливаем ZennoPoster</mark>
+
+Для использования ezFERM нам нужен ZennoPoster Lite, Standart или Professional. В ознакомительных целях можно бесплатный ZP Demo на 14 дней.&#x20;
+
+{% hint style="warning" %}
+ezFERM не выдается на ZennoBox.
+{% endhint %}
+
+{% embed url="https://zennolab.com/ru/products/zennoposter/#price-cards" %}
+
 ## <mark style="color:blue;">Загружаем инсталлятор</mark>
 
 {% embed url="https://t.me/ezFERM/24" %}
@@ -40,15 +50,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/установка ezFERM" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:blue;">Устанавливаем ZennoPoster</mark>
-
-Для использования ezFERM нам нужен ZennoPoster Lite, Standart или Professional. В ознакомительных целях можно бесплатный ZP Demo на 14 дней.&#x20;
-
-{% hint style="warning" %}
-ezFERM не выдается на ZennoBox.
-{% endhint %}
-
-{% embed url="https://zennolab.com/ru/products/zennoposter/#price-cards" %}
+Инсталлятор не удаляем, в будущем нужен для получения обновлений.
 
 ## <mark style="color:blue;">Настраиваем ZennoPoster</mark>
 
