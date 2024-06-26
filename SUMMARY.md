@@ -10,6 +10,7 @@
 ## Среда
 
 * [Инсталлятор](sreda/installyator.md)
+* [Установка ezFERM](sreda/ustanovka-ezferm.md)
 * [Файловая структура среды](sreda/failovaya-struktura-sredy.md)
 
 ## Оснащение фермы
@@ -34,7 +35,6 @@
 ## Дополнительные материалы
 
 * [Мануалы](dopolnitelnye-materialy/manualy/README.md)
-  * [Установка ezFERM](dopolnitelnye-materialy/manualy/ustanovka-ezferm.md)
   * [Создаем ферму от A-Z](dopolnitelnye-materialy/manualy/sozdaem-fermu-ot-a-z.md)
   * [Вписываем свою ферму в инсталлятор](dopolnitelnye-materialy/manualy/vpisyvaem-svoyu-fermu-v-installyator.md)
 * [Особенности и ограничения](dopolnitelnye-materialy/osobennosti-i-ogranicheniya.md)
