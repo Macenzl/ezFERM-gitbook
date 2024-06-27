@@ -16,7 +16,7 @@ layout:
 
 ## <mark style="color:blue;">Устанавливаем ZennoPoster</mark>
 
-Для использования ezFERM нам нужен ZennoPoster Lite, Standart или Professional. В ознакомительных целях можно бесплатный ZP Demo на 14 дней.&#x20;
+Для использования ezFERM нужен ZennoPoster Lite, Standart или Professional. Также можно бесплатный ZennoPoster Demo, но будет работать 14 дней.
 
 {% hint style="warning" %}
 ezFERM не выдается на ZennoBox.
