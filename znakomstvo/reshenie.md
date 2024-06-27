@@ -1,5 +1,15 @@
 ---
-description: ZennoPoster + ezFERM = ферма мультиаккаунтов.
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Решение
