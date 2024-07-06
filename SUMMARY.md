@@ -2,7 +2,6 @@
 
 * [👋 Знакомство](README.md)
   * [Проблема](znakomstvo/problema.md)
-  * [Решение](znakomstvo/reshenie.md)
 * [🚀 Обзор](obzor.md)
 * [🤝 Лицензия](licenziya.md)
 * [👉 Получить доступ](poluchit-dostup.md)
@@ -17,7 +16,7 @@
 
 * [Файловая структура фермы](osnashenie-fermy/failovaya-struktura-fermy.md)
 * [Аккаунты](osnashenie-fermy/akkaunty.md)
-* [Эмулятор](osnashenie-fermy/emulyator.md)
+* [Эмулятор (LISA)](osnashenie-fermy/emulyator-lisa.md)
 * [Прокси менеджер](osnashenie-fermy/proksi-menedzher.md)
 * [Синхронизированные таблицы](osnashenie-fermy/sinkhronizirovannye-tablicy.md)
 
