@@ -14,6 +14,12 @@ layout:
 
 # Установка ezFERM
 
+Что бы установить, вам нужно скачать ezInstaller. Инсталлятор используется для загрузки и обновления ezFERM и ферм, созданных другими разработчиками.&#x20;
+
+Инсталлятор работает с Git репозиториями. Каждый раз запуская инсталлятор, будут проверены все подключенные Git репозитории на наличие новых коммитов/обновлений. Если обновления будут найдены, вы получите обновления.
+
+Каждое обновление ezFERM объявляется в Telegramm канале в теме [<mark style="color:blue;">https://t.me/ezFERM/28</mark>](https://t.me/ezFERM/28).&#x20;
+
 ## <mark style="color:blue;">Устанавливаем ZennoPoster</mark>
 
 Для использования ezFERM нужен ZennoPoster Lite, Standart или Professional. Также можно бесплатный ZennoPoster Demo, но будет работать 14 дней.
@@ -26,7 +32,9 @@ ezFERM не выдается на ZennoBox.
 
 ## <mark style="color:blue;">Загружаем инсталлятор</mark>
 
-{% embed url="https://t.me/ezFERM/24" %}
+Скачиваем архив, создаем папку ezInstaller и разархивируем в эту папку.
+
+Скачать - [https://t.me/ezFERM/24](https://t.me/ezFERM/24)
 
 ## <mark style="color:blue;">Готовим Windows</mark>
 
@@ -36,7 +44,7 @@ ezFERM не выдается на ZennoBox.
 
 ## <mark style="color:blue;">Устанавливаем</mark>
 
-Открываем Installer.exe от имени Администратора.
+Открываем ezInstaller.exe от имени Администратора.
 
 {% hint style="warning" %}
 Если возникает ошибка отсутствия .net framework 4.8.1, то загружаем Runtime
@@ -44,7 +52,7 @@ ezFERM не выдается на ZennoBox.
 [https://dotnet.microsoft.com/ru-ru/download/dotnet-framework/net481](https://dotnet.microsoft.com/ru-ru/download/dotnet-framework/net481)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/папка Installer" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 Указываем директорию установки и загружаем.
 
@@ -59,5 +67,3 @@ ezFERM не выдается на ZennoBox.
 <figure><img src="../.gitbook/assets/Плагины.png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:blue;">Готово</mark>
-
-Спасибо, что установили ezFERM.

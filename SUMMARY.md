@@ -8,28 +8,27 @@
 
 ## Среда
 
-* [Инсталлятор](sreda/installyator.md)
 * [Установка ezFERM](sreda/ustanovka-ezferm.md)
-* [Файловая структура среды](sreda/failovaya-struktura-sredy.md)
+* [Файлы](sreda/faily.md)
 
 ## Оснащение фермы
 
-* [Файловая структура фермы](osnashenie-fermy/failovaya-struktura-fermy.md)
+* [Файлы фермы](osnashenie-fermy/faily-fermy.md)
 * [Аккаунты](osnashenie-fermy/akkaunty.md)
-* [Эмулятор (LISA)](osnashenie-fermy/emulyator-lisa.md)
-* [Прокси менеджер](osnashenie-fermy/proksi-menedzher.md)
+* [Эмулятор](osnashenie-fermy/emulyator.md)
+* [Прокси ](osnashenie-fermy/proksi.md)
 * [Синхронизированные таблицы](osnashenie-fermy/sinkhronizirovannye-tablicy.md)
 
-## Шаблон фермы
+## Ферма
 
-* [Структура шаблона фермы](shablon-fermy/struktura-shablona-fermy.md)
-* [Task Managment](shablon-fermy/task-managment/README.md)
-  * [Задачи](shablon-fermy/task-managment/zadachi/README.md)
-    * [Задачи в ProjectMaker](shablon-fermy/task-managment/zadachi/zadachi-v-projectmaker.md)
-    * [Задачи в VisualStudio](shablon-fermy/task-managment/zadachi/zadachi-v-visualstudio.md)
-  * [Подзадачи](shablon-fermy/task-managment/podzadachi/README.md)
-    * [Подзадачи в ProjectMaker](shablon-fermy/task-managment/podzadachi/podzadachi-v-projectmaker.md)
-    * [Подзадачи в VisualStudio](shablon-fermy/task-managment/podzadachi/podzadachi-v-visualstudio.md)
+* [Структура](ferma/struktura.md)
+* [Задачи и подзадачи](ferma/zadachi-i-podzadachi/README.md)
+  * [Задачи](ferma/zadachi-i-podzadachi/zadachi/README.md)
+    * [Задачи в ProjectMaker](ferma/zadachi-i-podzadachi/zadachi/zadachi-v-projectmaker.md)
+    * [Задачи в VisualStudio](ferma/zadachi-i-podzadachi/zadachi/zadachi-v-visualstudio.md)
+  * [Подзадачи](ferma/zadachi-i-podzadachi/podzadachi/README.md)
+    * [Подзадачи в ProjectMaker](ferma/zadachi-i-podzadachi/podzadachi/podzadachi-v-projectmaker.md)
+    * [Подзадачи в VisualStudio](ferma/zadachi-i-podzadachi/podzadachi/podzadachi-v-visualstudio.md)
 
 ## Дополнительные материалы
 

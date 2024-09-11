@@ -186,8 +186,8 @@ layout:
 
 Метод создания задач описан по ссылке ниже.
 
-{% content-ref url="../../shablon-fermy/task-managment/zadachi/zadachi-v-projectmaker.md" %}
-[zadachi-v-projectmaker.md](../../shablon-fermy/task-managment/zadachi/zadachi-v-projectmaker.md)
+{% content-ref url="../../ferma/zadachi-i-podzadachi/zadachi/zadachi-v-projectmaker.md" %}
+[zadachi-v-projectmaker.md](../../ferma/zadachi-i-podzadachi/zadachi/zadachi-v-projectmaker.md)
 {% endcontent-ref %}
 
 {% tabs %}
@@ -332,8 +332,8 @@ layout:
 
 Далее добавляем папки Actions и SubActions, создаем и пишем задачи и подзадачи с тем же функционалом, что писали в ProjectMaker, самостоятельно по методологии описанной ранее.
 
-{% content-ref url="../../shablon-fermy/task-managment/" %}
-[task-managment](../../shablon-fermy/task-managment/)
+{% content-ref url="../../ferma/zadachi-i-podzadachi/" %}
+[zadachi-i-podzadachi](../../ferma/zadachi-i-podzadachi/)
 {% endcontent-ref %}
 
 &#x20;Создаем сборку, ezFERM будет искать ее в папке по 3 путям:
